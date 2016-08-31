@@ -258,7 +258,6 @@ public class SunshineWatchFace extends CanvasWatchFaceService {
             Resources resources = SunshineWatchFace.this.getResources();
             boolean isRound = insets.isRound();
 
-
             float timeTextSize = resources.getDimension(isRound ?
                     R.dimen.time_text_size_round : R.dimen.time_text_size);
             mTimePaint.setTextSize(timeTextSize);
