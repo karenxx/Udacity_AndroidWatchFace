@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="analog_hand_stroke">3dp</dimen>
+    <dimen name="time_text_size">35dp</dimen>
+    <dimen name="time_text_size_round">40dp</dimen>
+    <dimen name="date_text_size">18dp</dimen>
+    <dimen name="date_text_size_round">20dp</dimen>
+    <dimen name="temp_text_size">25dp</dimen>
+    <dimen name="temp_text_size_round">30dp</dimen>
+
+    <dimen name = "time_y_offset">70dp</dimen>
+    <dimen name="date_y_offset">92dp</dimen>
+    <dimen name="divider_y_offset">105dp</dimen>
+    <dimen name="weather_y_offset">135dp</dimen>
 </resources>

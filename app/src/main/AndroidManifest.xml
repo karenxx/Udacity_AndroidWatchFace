@@ -185,7 +185,11 @@
         </service>
         <service
             android:name=".gcm.RegistrationIntentService"
-            android:exported="false"></service>
+            android:exported="false" />
+        <service
+            android:name=".SendDataService"
+            android:enabled="true"
+            android:exported="true"></service>
     </application>
 
 </manifest>

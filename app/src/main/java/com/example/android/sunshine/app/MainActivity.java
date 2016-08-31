@@ -106,8 +106,10 @@ public class MainActivity extends AppCompatActivity implements ForecastFragment.
                 Intent intent = new Intent(this, RegistrationIntentService.class);
                 startService(intent);
             }
+
         }
     }
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
