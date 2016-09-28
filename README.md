@@ -1,3 +1,19 @@
+## SunshineWatchFace
+A wearable watch face for Sunshine to run on an Android Wear device
+
+### Features
+- App works on both round and square watch faces
+- App displays the current time
+- App displays high and low temperatures
+- App displays a graphic that summarizes the day's weather
+
+### Instruction for running the app
+Complete these steps to update Sunshine to use an API key:
+- Obtain an API Key from openweathermap.org
+- Add the line below to your ~/.gradle/gradle.properties file (create the file if it does not exist already): MyOpenWeatherMapApiKey=”YOUR_API_KEY”
+
+===================================
+
 Advanced Android Sample App
 ===================================
 
